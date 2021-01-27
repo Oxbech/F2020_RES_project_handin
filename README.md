@@ -1,1 +1,1 @@
-# F2020_RES_project_handin
+# Renewable Energy Systems, Fall 2020. Semester project hand-in repository
